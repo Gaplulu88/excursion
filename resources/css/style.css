@@ -15,4 +15,17 @@
     color: aquamarine;
     font-size: 16px;
     text-align: center;
+    text-decoration: underline;
+  }
+
+  #media {
+    text-align: center;
+  }
+
+  #picture {
+    text-align: center;
+  }
+
+  #icon {
+    text-align: center;
   }
